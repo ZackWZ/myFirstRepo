@@ -4,7 +4,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		
 		System.out.println(infiniteCall(10));
-		System.out.println("MY FIRST PUSH");
+		System.out.println("MY TEST PUSH");
 	}
 	
 	public static int infiniteCall(int a) {
